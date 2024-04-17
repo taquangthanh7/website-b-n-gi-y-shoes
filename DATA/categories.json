@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "643cd2aed2f4cf93f513bdad"
+  },
+  "name": "Adidas",
+  "description": "Adidas",
+  "slug": "/Adidas",
+  "createdAt": {
+    "$date": "2023-04-17T05:01:34.465Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:05:24.827Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643cd88879b4192efedda4e6"
+  },
+  "name": "Valentino",
+  "description": "Valentino",
+  "slug": "/Valentino",
+  "createdAt": {
+    "$date": "2023-04-17T05:26:32.307Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:05:55.368Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643cd89a79b4192efedda4ee"
+  },
+  "name": "Supreme",
+  "description": "Supreme",
+  "slug": "/Supreme",
+  "createdAt": {
+    "$date": "2023-04-17T05:26:50.892Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:08:09.052Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d030051fc7a906603da39"
+  },
+  "name": "Balenciaga",
+  "description": "Balenciaga",
+  "slug": "/Balenciaga",
+  "createdAt": {
+    "$date": "2023-04-17T08:27:44.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:09:06.244Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d0f9dd8de2d2d1bac40f5"
+  },
+  "name": "Vans",
+  "description": "Vans",
+  "slug": "/Vans",
+  "createdAt": {
+    "$date": "2023-04-29T12:37:49.064Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:09:47.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d0fb0d8de2d2d1bac40f9"
+  },
+  "name": " Nike",
+  "description": " Nike",
+  "slug": "/ Nike",
+  "createdAt": {
+    "$date": "2023-04-29T12:38:08.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:13:52.917Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64522bf91d6fbe8d3d400a7b"
+  },
+  "name": "Christian Louboutin",
+  "description": "Christian Louboutin",
+  "slug": "/Christian Louboutin",
+  "image": "http://localhost:3100/uploads\\1683106809263-806467265_adidas-vn.jpg",
+  "createdAt": {
+    "$date": "2023-05-03T09:40:09.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:40:09.298Z"
+  },
+  "__v": 0
+}]
